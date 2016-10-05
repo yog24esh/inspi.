@@ -1,2 +1,2 @@
 # inspi.
-basic front end project
+basic front end project using bootstrap
